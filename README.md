@@ -1,4 +1,4 @@
-# 🧬 Evodiae Fructus–CVD Reproducibility Hub
+# 🧬 *Evodiae Fructus* – CVD Reproducibility Hub
 
 This repository provides a reproducible analysis workflow for integrating *Evodiae Fructus* compound–target evidence with human carotid atherosclerosis transcriptomics and cardiovascular safety signals. It is organized for traceability, parameter transparency, and figure-level reruns.
 
